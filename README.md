@@ -7,3 +7,8 @@ Node.js 를 이용한 라이브 채팅 서버 (Socket.io)
 * 방(Room)이 나눠집니다.
 * 유저의 아이피를 가져올 수 있습니다: socket.handshake.headers["x-forwarded-for"] (아이피 가져오기)
 * 매우 간단한 시스템으로 추후에 강제 퇴장, 채팅 금지 등의 기능도 추가 가능합니다.
+
+# 연관 Github 바로가기
+* 프론트앤드 : https://github.com/skorea6/educationlive_frontend
+* 백엔드: https://github.com/skorea6/educationlive
+* 채팅서버: https://github.com/skorea6/educationlive_chat
